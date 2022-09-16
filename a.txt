@@ -1,0 +1,8 @@
+<script> const firebaseConfig = {
+  apiKey: "AIzaSyCSqJZ7T4KviB184jX2_L55tVciItzqBvo",
+  authDomain: "fruit-collector-40a18.firebaseapp.com",
+  projectId: "fruit-collector-40a18",
+  storageBucket: "fruit-collector-40a18.appspot.com",
+  messagingSenderId: "490741095509",
+  appId: "1:490741095509:web:a278b45e1eab88310808dc"
+};
